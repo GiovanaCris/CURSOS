@@ -1,0 +1,7 @@
+Curso Harvard - Django: https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript
+Curso Spring - Yt: https://www.youtube.com/watch?v=3dWvNwjkUlI&list=PL9p_J5fD742FdNL0UBoqSuzJJKzsSEXEl
+Videoaulas de Spring - Yt: https://www.youtube.com/@giulianabezerra
+Tutorial SSO - Caio Farias e Amber Forte: https://github.com/caiofariaas/sso-tutorial
+Curso UI/UX - Unicamp: https://moocs.ggte.unicamp.br/course/ux-e-ui-design/intro
+Curso Design Gráfico - FIAP: https://www.eucapacito.com.br/cursos/design-grafico/
+Curso IA - FIAP: https://www.eucapacito.com.br/cursos/inteligencia-artificial-e-computacional/
